@@ -14,7 +14,7 @@ import sys
 
 import pygame
 
-CELL_SIZE = 20
+CELL_SIZE = 24
 GRID_WIDTH = 30
 GRID_HEIGHT = 24
 WIDTH = CELL_SIZE * GRID_WIDTH

@@ -26,7 +26,7 @@
 #include <time.h>
 #include <sys/select.h>
 
-#define GRID_WIDTH            30
+#define GRID_WIDTH         30
 #define GRID_HEIGHT           24
 #define STARTING_LENGTH        3
 #define BASE_SPEED              8   /* moves/sec, matches the .py version */
